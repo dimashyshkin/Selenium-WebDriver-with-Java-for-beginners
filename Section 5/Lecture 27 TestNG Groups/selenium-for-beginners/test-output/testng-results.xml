@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-03T00:31:28Z" name="NegativeTestsSuite" finished-at="2019-04-03T00:31:41Z" duration-ms="13181">
+    <groups>
+      <group name="smokeTests">
+        <method signature="NegativeTests.incorrectUsernameTest()[pri:1, instance:com.herokuapp.theinternet.NegativeTests@b3ca52e]" name="incorrectUsernameTest" class="com.herokuapp.theinternet.NegativeTests"/>
+      </group> <!-- smokeTests -->
+      <group name="negativeTests">
+        <method signature="NegativeTests.incorrectUsernameTest()[pri:1, instance:com.herokuapp.theinternet.NegativeTests@b3ca52e]" name="incorrectUsernameTest" class="com.herokuapp.theinternet.NegativeTests"/>
+      </group> <!-- negativeTests -->
+    </groups>
+    <test started-at="2019-04-03T00:31:28Z" name="NegativeTests" finished-at="2019-04-03T00:31:41Z" duration-ms="13181">
+      <class name="com.herokuapp.theinternet.NegativeTests">
+        <test-method signature="incorrectUsernameTest()[pri:1, instance:com.herokuapp.theinternet.NegativeTests@b3ca52e]" started-at="2019-04-03T00:31:28Z" name="incorrectUsernameTest" finished-at="2019-04-03T00:31:41Z" duration-ms="13154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectUsernameTest -->
+      </class> <!-- com.herokuapp.theinternet.NegativeTests -->
+    </test> <!-- NegativeTests -->
+  </suite> <!-- NegativeTestsSuite -->
+</testng-results>

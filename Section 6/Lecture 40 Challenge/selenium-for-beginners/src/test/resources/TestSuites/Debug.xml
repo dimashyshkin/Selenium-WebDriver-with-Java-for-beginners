@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Debug" verbose="1">
+
+	<test name="PositiveLoginTest">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.herokuapp.theinternet.LoginTests">
+				<methods>
+					<include name="positiveLoginTest"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>
