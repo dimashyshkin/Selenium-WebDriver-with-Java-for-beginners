@@ -4,7 +4,7 @@ Updated 2019 version
 Code examples for Highest rated course "Selenium WebDriver with Java for beginners" on Udemy
 https://www.udemy.com/course/selenium-for-beginners/?referralCode=A21BE51035C15406EFA4/
 
-Checkout my Selenium courses here https://www.udemy.com/user/dimashyshkin/
+Checkout my Selenium courses here https://practicetestautomation.com/courses/
 
 Bestseller "XPath locators for Selenium" course - https://www.udemy.com/course/xpath-locators-for-selenium/?referralCode=ACB28329B5AC2333DDCC/
 
